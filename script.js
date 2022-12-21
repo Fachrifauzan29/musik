@@ -3,7 +3,7 @@ document.addEventListener('DOMContentLoaded', function () {
     {
       audioSrc:
         'https://fachrifauzan29.github.io/musik.github.io/tracks/johan.mp3',
-      coverSrc: './images/Johan.jpg',
+      coverSrc: './images/Johan.png',
       name: 'Johan Liebert',
       desc: 'Monster',
       id: 0,
