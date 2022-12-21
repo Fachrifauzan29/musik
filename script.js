@@ -2,10 +2,10 @@ document.addEventListener('DOMContentLoaded', function () {
   const tracksList = [
     {
       audioSrc:
-        'https://fachrifauzan29.github.io/test2.github.io/ciah.mp3',
+        'https://fachrifauzan29.github.io/musik.github.io/tracks/johan.mp3',
       coverSrc: './images/wizKhalifa.jpg',
-      name: 'Wiz Khalifa',
-      desc: 'Wiz Khalifa - Amber Ice',
+      name: 'Johan Liebert',
+      desc: 'Monster',
       id: 0,
     },
     {
