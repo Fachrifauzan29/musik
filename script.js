@@ -1,6 +1,6 @@
 document.addEventListener('DOMContentLoaded', function () {
   const tracksList = [
-    {
+     {
       audioSrc:
         './tracks/01-Wiz Khalifa - Amber Ice [Prod. By I.D. Labs Productions] [www.SongsLover.com].mp3',
       coverSrc: './images/wizKhalifa.jpg',
