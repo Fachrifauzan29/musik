@@ -3,7 +3,7 @@ document.addEventListener('DOMContentLoaded', function () {
      {
       audioSrc:
         './tracks/johan.mp3',
-      coverSrc: './images/johan.png',
+      coverSrc: './images/johan.jpg',
       name: 'Johan Liebert',
       desc: 'Monster',
       id: 0,
