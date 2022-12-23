@@ -2,10 +2,10 @@ document.addEventListener('DOMContentLoaded', function () {
   const tracksList = [
      {
       audioSrc:
-        './tracks/01-Wiz Khalifa - Amber Ice [Prod. By I.D. Labs Productions] [www.SongsLover.com].mp3',
-      coverSrc: './images/wizKhalifa.jpg',
-      name: 'Wiz Khalifa',
-      desc: 'Wiz Khalifa - Amber Ice',
+        './tracks/johan.mp3',
+      coverSrc: './images/johan.png',
+      name: 'Johan Liebert',
+      desc: 'Monster',
       id: 0,
     },
     {
@@ -44,6 +44,76 @@ document.addEventListener('DOMContentLoaded', function () {
       name: 'Pop Smoke ft. Lil Baby, DaBaby',
       desc: 'For The Night',
       id: 5,
+    },
+    {
+      audioSrc: './tracks/heatwaves.mp3',
+      coverSrc: './images/glass.jpg',
+      name: 'Heat Waves',
+      desc: 'Glass Animals',
+      id: 6,
+    },
+    {
+      audioSrc: './tracks/ghostj.mp3',
+      coverSrc: './images/justin.jpg',
+      name: 'Justin Bieber',
+      desc: 'Ghost',
+      id: 7,
+    },
+    {
+      audioSrc: './tracks/Seafret  Atlantis.mp3',
+      coverSrc: './images/seafret.jpg',
+      name: 'Seafret',
+      desc: 'Atlantis',
+      id: 8,
+    },
+    {
+      audioSrc: './tracks/themesad.mp3',
+      coverSrc: './images/anime-one-punch-man-mumen-rider-wallpaper-preview.jpg',
+      name: 'Mumen Rider',
+      desc: 'Theme sad',
+      id: 9,
+    },
+    {
+      audioSrc: './tracks/aots3.webm',
+      coverSrc: './images/shingeki-no-kyojin-eren-jeager-mikasa-ackerman-armin-arlert-wallpaper-preview.jpg',
+      name: 'YOSHIKI feat. Hyde',
+      desc: 'Red Swan',
+      id: 10,
+    },
+    {
+      audioSrc: './tracks/Berserk soundtrack  4 Gatsu.mp3',
+      coverSrc: './images/berserk-berserk-armor-guts-kentaro-miura-wallpaper-preview.jpg',
+      name: 'Berserk soundtrack',
+      desc: '4 Gatsu',
+      id: 11,
+    },
+    {
+      audioSrc: './tracks/asitwas.mp3',
+      coverSrc: './images/asitwass.png',
+      name: 'Harry Styles',
+      desc: 'As it was',
+      id: 12,
+    },
+    {
+      audioSrc: './tracks/Coyote theory  This Side Of Paradise.mp3',
+      coverSrc: './images/coyote.jpg',
+      name: 'Coyote theory',
+      desc: 'This Side Of Paradise',
+      id: 13,
+    },
+    {
+      audioSrc: './tracks/fireforce.mp3',
+      coverSrc: './images/shinra.png',
+      name: 'Mrs. GREEN APPLE',
+      desc: 'Inferno op fireforce',
+      id: 14,
+    },
+    {
+      audioSrc: './tracks/bluencount.mp3',
+      coverSrc: './images/anime-my-hero-academia-all-might-blonde-wallpaper-preview.jpg',
+      name: 'Joyner Lucas & Lil Baby',
+      desc: 'Ramen & OJ',
+      id: 15,
     },
   ];
 
