@@ -111,8 +111,8 @@ document.addEventListener('DOMContentLoaded', function () {
     {
       audioSrc: './tracks/bluencount.mp3',
       coverSrc: './images/anime-my-hero-academia-all-might-blonde-wallpaper-preview.jpg',
-      name: 'Joyner Lucas & Lil Baby',
-      desc: 'Ramen & OJ',
+      name: 'Blue Encount',
+      desc: 'Polaris',
       id: 15,
     },
   ];
