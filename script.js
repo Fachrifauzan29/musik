@@ -93,25 +93,11 @@ document.addEventListener('DOMContentLoaded', function () {
       id: 12,
     },
      {
-      audioSrc: './tracks/ghoulre3.mp3',
-      coverSrc: './images/res3.jpg',
-      name: 'Cö shu Nie',
-      desc: 'Asphyxia',
-      id: 13,
-    },
-     {
       audioSrc: './tracks/Your Name  Kimi no nawa.mp3',
       coverSrc: './images/kimi.jpg',
       name: 'Sparkle',
       desc: 'Kimi No Nawa',
       id: 14,
-    },
-     {
-      audioSrc: './tracks/under.mp3',
-      coverSrc: './images/cm.jpg',
-      name: 'CMC$ & Conor Maynard',
-      desc: 'Understand Me',
-      id: 15,
     },
   ];
 
