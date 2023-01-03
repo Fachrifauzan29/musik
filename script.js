@@ -132,7 +132,7 @@ document.addEventListener('DOMContentLoaded', function () {
       var li = document.createElement('li');
       li.id = track.id;
       li.innerHTML = `
-                    <div class="track-number">${track.id}</div>
+                    <div class="track-number">$0{track.id}</div>
                     <img
                     src=${track.coverSrc}
                     class="track-img"
