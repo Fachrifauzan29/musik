@@ -99,6 +99,20 @@ document.addEventListener('DOMContentLoaded', function () {
       desc: 'Asphyxia',
       id: 13,
     },
+     {
+      audioSrc: './tracks/Your Name  Kimi no nawa.mp3',
+      coverSrc: './images/kimii.jpg',
+      name: 'Sparkle',
+      desc: 'Kimi No Nawa',
+      id: 14,
+    },
+     {
+      audioSrc: './tracks/y2mate.com - CMC Conor Maynard Understand Me.mp3',
+      coverSrc: './images/cm.jpg',
+      name: 'CMC$ & Conor Maynard',
+      desc: 'Understand Me',
+      id: 15,
+    },
   ];
 
   const currentTrackName = document.querySelector('header h3');
