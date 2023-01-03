@@ -101,7 +101,7 @@ document.addEventListener('DOMContentLoaded', function () {
     },
      {
       audioSrc: './tracks/Your Name  Kimi no nawa.mp3',
-      coverSrc: './images/kimii.jpg',
+      coverSrc: './images/kimi.jpg',
       name: 'Sparkle',
       desc: 'Kimi No Nawa',
       id: ,
