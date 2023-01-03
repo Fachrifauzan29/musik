@@ -86,7 +86,7 @@ document.addEventListener('DOMContentLoaded', function () {
       id: 11,
     },
      {
-      audioSrc: '\tracks\Nightcore - Knees.mp3',
+      audioSrc: './tracks/Nightcore - Knees.mp3',
       coverSrc: './images/maxresdefault.jpg',
       name: 'Nightcore',
       desc: 'Kness',
