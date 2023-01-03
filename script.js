@@ -13,105 +13,105 @@ document.addEventListener('DOMContentLoaded', function () {
       coverSrc: './images/glass.jpg',
       name: 'Heat Waves',
       desc: 'Glass Animals',
-      id: 1,
+      id: ,
     },
     {
       audioSrc: './tracks/ghostj.mp3',
       coverSrc: './images/justin.jpg',
       name: 'Justin Bieber',
       desc: 'Ghost',
-      id: 2,
+      id: ,
     },
     {
       audioSrc: './tracks/Seafret  Atlantis.mp3',
       coverSrc: './images/seafret.jpg',
       name: 'Seafret',
       desc: 'Atlantis',
-      id: 3,
+      id: ,
     },
     {
       audioSrc: './tracks/themesad.mp3',
       coverSrc: './images/anime-one-punch-man-mumen-rider-wallpaper-preview.jpg',
       name: 'Mumen Rider',
       desc: 'Theme sad',
-      id: 4,
+      id: ,
     },
     {
       audioSrc: './tracks/aots3.webm',
       coverSrc: './images/shingeki-no-kyojin-eren-jeager-mikasa-ackerman-armin-arlert-wallpaper-preview.jpg',
       name: 'YOSHIKI feat. Hyde',
       desc: 'Red Swan',
-      id: 5,
+      id: ,
     },
     {
       audioSrc: './tracks/Berserk soundtrack  4 Gatsu.mp3',
       coverSrc: './images/berserk-berserk-armor-guts-kentaro-miura-wallpaper-preview.jpg',
       name: 'Berserk soundtrack',
       desc: '4 Gatsu',
-      id: 6,
+      id: ,
     },
     {
       audioSrc: './tracks/asitwas.mp3',
       coverSrc: './images/asitwass.png',
       name: 'Harry Styles',
       desc: 'As it was',
-      id: 7,
+      id: ,
     },
     {
       audioSrc: './tracks/Coyote theory  This Side Of Paradise.mp3',
       coverSrc: './images/coyote.jpg',
       name: 'Coyote theory',
       desc: 'This Side Of Paradise',
-      id: 8,
+      id: ,
     },
     {
       audioSrc: './tracks/fireforce.mp3',
       coverSrc: './images/shinra.png',
       name: 'Mrs. GREEN APPLE',
       desc: 'Inferno op fireforce',
-      id: 9,
+      id: ,
     },
     {
       audioSrc: './tracks/bluencount.mp3',
       coverSrc: './images/anime-my-hero-academia-all-might-blonde-wallpaper-preview.jpg',
       name: 'Blue Encount',
       desc: 'Polaris',
-      id: 10,
+      id: ,
     },
      {
       audioSrc: './tracks/Nightcore - Knees.mp3',
       coverSrc: './images/knes.jpg',
       name: 'Nightcore',
       desc: 'Kness',
-      id: 11,
+      id: ,
     },
     {
       audioSrc: './tracks/Yoh Kamiyama  Irokousui.mp3',
       coverSrc: './images/horimiya.jpg',
       name: 'Yoh Kamiyama',
       desc: 'Irokousui',
-      id: 12,
+      id: ,
     },
      {
       audioSrc: './tracks/ghoulre3.mp3',
       coverSrc: './images/res3.jpg',
       name: 'Cö shu Nie',
       desc: 'Asphyxia',
-      id: 13,
+      id: ,
     },
      {
       audioSrc: './tracks/Your Name  Kimi no nawa.mp3',
       coverSrc: './images/kimii.jpg',
       name: 'Sparkle',
       desc: 'Kimi No Nawa',
-      id: 14,
+      id: ,
     },
      {
       audioSrc: './tracks/under.mp3',
       coverSrc: './images/cm.jpg',
       name: 'CMC$ & Conor Maynard',
       desc: 'Understand Me',
-      id: 15,
+      id: ,
     },
   ];
 
@@ -132,7 +132,7 @@ document.addEventListener('DOMContentLoaded', function () {
       var li = document.createElement('li');
       li.id = track.id;
       li.innerHTML = `
-                    <div class="track-number">0${track.id}</div>
+                    <div class="track-number">${track.id}</div>
                     <img
                     src=${track.coverSrc}
                     class="track-img"
