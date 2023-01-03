@@ -87,7 +87,7 @@ document.addEventListener('DOMContentLoaded', function () {
     },
     {
       audioSrc: './tracks/Yoh Kamiyama  Irokousui.mp3',
-      coverSrc: './images/horimiyaa.webp',
+      coverSrc: './images/horimiya.jpg',
       name: 'Yoh Kamiyama',
       desc: 'Irokousui',
       id: 12,
