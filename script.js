@@ -81,8 +81,8 @@ document.addEventListener('DOMContentLoaded', function () {
      {
       audioSrc: './tracks/ghoulre3.mp3',
       coverSrc: './images/res3.jpg',
-      name: 'Blue Encount',
-      desc: 'Polaris',
+      name: 'Cö shu Nie',
+      desc: 'Asphyxia',
       id: 11,
     },
      {
