@@ -78,6 +78,20 @@ document.addEventListener('DOMContentLoaded', function () {
       desc: 'Polaris',
       id: 10,
     },
+     {
+      audioSrc: './tracks/ghoulre3.mp3',
+      coverSrc: './images/res3.jpg',
+      name: 'Blue Encount',
+      desc: 'Polaris',
+      id: 11,
+    },
+     {
+      audioSrc: './tracks/bluencount.mp3',
+      coverSrc: './images/maxresdefault.jpg',
+      name: 'Nightcore',
+      desc: 'Kness',
+      id: 12,
+    },
   ];
 
   const currentTrackName = document.querySelector('header h3');
