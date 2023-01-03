@@ -83,11 +83,11 @@ document.addEventListener('DOMContentLoaded', function () {
       coverSrc: './images/maxresdefault.jpg',
       name: 'Nightcore',
       desc: 'Kness',
-      id: 11,  \tracks\Yoh Kamiyama  Irokousui.mp3
+      id: 11,
     },
     {
       audioSrc: './tracks/Yoh Kamiyama  Irokousui.mp3',
-      coverSrc: './images/res3.jpg',
+      coverSrc: './images/horimiya.jpg',
       name: 'Yoh Kamiyama',
       desc: 'Irokousui',
       id: 12,
