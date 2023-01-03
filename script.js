@@ -79,18 +79,25 @@ document.addEventListener('DOMContentLoaded', function () {
       id: 10,
     },
      {
-      audioSrc: './tracks/ghoulre3.mp3',
-      coverSrc: './images/res3.jpg',
-      name: 'Cö shu Nie',
-      desc: 'Asphyxia',
-      id: 11,
-    },
-     {
       audioSrc: './tracks/Nightcore - Knees.mp3',
       coverSrc: './images/maxresdefault.jpg',
       name: 'Nightcore',
       desc: 'Kness',
+      id: 11,  \tracks\Yoh Kamiyama  Irokousui.mp3
+    },
+    {
+      audioSrc: './tracks/Yoh Kamiyama  Irokousui.mp3',
+      coverSrc: './images/res3.jpg',
+      name: 'Yoh Kamiyama',
+      desc: 'Irokousui',
       id: 12,
+    },
+     {
+      audioSrc: './tracks/ghoulre3.mp3',
+      coverSrc: './images/res3.jpg',
+      name: 'Cö shu Nie',
+      desc: 'Asphyxia',
+      id: 13,
     },
   ];
 
