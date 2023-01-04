@@ -73,7 +73,7 @@ document.addEventListener('DOMContentLoaded', function () {
     },
     {
       audioSrc: './tracks/bluencount.mp3',
-      coverSrc: './images/BLUE ENCOUNT - Polsaris.jpg',
+      coverSrc: './images/BLUE ENCOUNT - Polaris.jpg',
       name: 'Blue Encount',
       desc: 'Polaris',
       id: 10,
