@@ -30,13 +30,6 @@ document.addEventListener('DOMContentLoaded', function () {
       id: 3,
     },
     {
-      audioSrc: './tracks/themesad.mp3',
-      coverSrc: './images/anime-one-punch-man-mumen-rider-wallpaper-preview.jpg',
-      name: 'Mumen Rider',
-      desc: 'Theme sad',
-      id: 4,
-    },
-    {
       audioSrc: './tracks/aots3.webm',
       coverSrc: './images/shingeki-no-kyojin-eren-jeager-mikasa-ackerman-armin-arlert-wallpaper-preview.jpg',
       name: 'YOSHIKI feat. Hyde',
