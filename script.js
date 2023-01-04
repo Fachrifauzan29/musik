@@ -73,7 +73,7 @@ document.addEventListener('DOMContentLoaded', function () {
     },
     {
       audioSrc: './tracks/bluencount.mp3',
-      coverSrc: './images/anime-my-hero-academia-all-might-blonde-wallpaper-preview.jpg',
+      coverSrc: './images/BLUE ENCOUNT - Polaris.jpg',
       name: 'Blue Encount',
       desc: 'Polaris',
       id: 10,
