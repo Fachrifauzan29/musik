@@ -73,14 +73,14 @@ document.addEventListener('DOMContentLoaded', function () {
     },
     {
       audioSrc: './tracks/bluencount.mp3',
-      coverSrc: './images/BLUE ENCOUNT - Polaris.jpg',
+      coverSrc: './images/BLUE ENCOUNT - Polsaris.jpg',
       name: 'Blue Encount',
       desc: 'Polaris',
       id: 10,
     },
     {
       audioSrc: './tracks/Yoh Kamiyama  Irokousui.mp3',
-      coverSrc: './images/pic2.jpg',
+      coverSrc: './images/pic1.jpg',
       name: 'Yoh Kamiyama',
       desc: 'Irokousui',
       id: 11,
