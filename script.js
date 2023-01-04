@@ -78,26 +78,19 @@ document.addEventListener('DOMContentLoaded', function () {
       desc: 'Polaris',
       id: 10,
     },
-     {
-      audioSrc: './tracks/Nightcore - Knees.mp3',
-      coverSrc: './images/knes.jpg',
-      name: 'Nightcore',
-      desc: 'Kness',
-      id: 11,
-    },
     {
       audioSrc: './tracks/Yoh Kamiyama  Irokousui.mp3',
-      coverSrc: './images/horimiya.jpg',
+      coverSrc: './images/pic1.jpg',
       name: 'Yoh Kamiyama',
       desc: 'Irokousui',
-      id: 12,
+      id: 11,
     },
      {
       audioSrc: './tracks/Your Name  Kimi no nawa.mp3',
       coverSrc: './images/kimi.jpg',
       name: 'Sparkle',
       desc: 'Kimi No Nawa',
-      id: 14,
+      id: 12,
     },
   ];
 
