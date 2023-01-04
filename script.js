@@ -83,7 +83,7 @@ document.addEventListener('DOMContentLoaded', function () {
       coverSrc: './images/kimi.jpg',
       name: 'Sparkle',
       desc: 'Kimi No Nawa',
-      id: 12,
+      id: 11,
     },
   ];
 
