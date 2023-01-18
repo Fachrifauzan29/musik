@@ -85,6 +85,13 @@ document.addEventListener('DOMContentLoaded', function () {
       desc: 'Kimi No Nawa',
       id: 11,
     },
+     {
+      audioSrc: './tracks/ConsumeChase.mp3',
+      coverSrc: './images/consumechase.jpg',
+      name: 'Consume',
+      desc: 'Chase Atlantic feat. Goon Des Garcons',
+      id: 12,
+    },
   ];
 
   const currentTrackName = document.querySelector('header h3');
