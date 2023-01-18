@@ -88,8 +88,8 @@ document.addEventListener('DOMContentLoaded', function () {
      {
       audioSrc: './tracks/ConsumeChase.mp3',
       coverSrc: './images/consumechase.jpg',
-      name: 'Consume',
-      desc: 'Chase Atlantic feat. Goon Des Garcons',
+      desc: 'Consume',
+      name: 'Chase Atlantic feat. Goon Des Garcons',
       id: 12,
     },
   ];
