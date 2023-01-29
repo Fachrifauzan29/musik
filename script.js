@@ -30,17 +30,17 @@ document.addEventListener('DOMContentLoaded', function () {
       id: 3,
     },
     {
-      audioSrc: './tracks/aots3.webm',
-      coverSrc: './images/shingeki-no-kyojin-eren-jeager-mikasa-ackerman-armin-arlert-wallpaper-preview.jpg',
-      name: 'YOSHIKI feat. Hyde',
-      desc: 'Red Swan',
-      id: 4,
-    },
-    {
       audioSrc: './tracks/asitwas.mp3',
       coverSrc: './images/asitwass.png',
       name: 'Harry Styles',
       desc: 'As it was',
+      id: 4,
+    },
+     {
+      audioSrc: './tracks/aots3.webm',
+      coverSrc: './images/shingeki-no-kyojin-eren-jeager-mikasa-ackerman-armin-arlert-wallpaper-preview.jpg',
+      name: 'YOSHIKI feat. Hyde',
+      desc: 'Red Swan',
       id: 5,
     },
     {
