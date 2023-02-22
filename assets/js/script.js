@@ -44,7 +44,7 @@ const musicData = [
     musicPath: "./assets/music/bluencount.mp3",
   },
   {
-    backgroundImage: "./assets/images/poster-6.jpg",
+    backgroundImage: "./assets/images/poster-2.jpg",
     posterUrl: "./assets/images/rotate.gif",
     title: "Odd Loop",
     album: "|",
