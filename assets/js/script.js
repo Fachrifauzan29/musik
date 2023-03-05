@@ -8,7 +8,6 @@
 
 const musicData = [
   {
-    backgroundImage: "./assets/images/shinra.png",
     posterUrl: "./assets/images/shinra.png",
     title: "Inferno",
     album: "|",
@@ -17,7 +16,6 @@ const musicData = [
     musicPath: "./assets/music/fireforce.mp3",
   },
   {
-    backgroundImage: "./assets/images/aquatimez.jpg",
     posterUrl: "./assets/images/aquatimez.jpg",
     title: "Alones",
     album: "|",
@@ -26,7 +24,6 @@ const musicData = [
     musicPath: "./assets/music/Aqua Timez - ALONES.mp3",
   },
   {
-    backgroundImage: "./assets/images/consumechase.jpg",
     posterUrl: "./assets/images/consumechase.jpg",
     title: "Consume",
     album: "|",
@@ -35,7 +32,6 @@ const musicData = [
     musicPath: "./assets/music/ConsumeChase.mp3",
   },
   {
-    backgroundImage: "./assets/images/BLUE ENCOUNT - Polaris.jpg",
     posterUrl: "./assets/images/BLUE ENCOUNT - Polaris.jpg",
     title: "Blue Encount",
       album: "|",
@@ -44,7 +40,6 @@ const musicData = [
     musicPath: "./assets/music/bluencount.mp3",
   },
   {
-    backgroundImage: "./assets/images/poster-2.jpg",
     posterUrl: "./assets/images/rotate.gif",
     title: "Odd Loop",
     album: "|",
@@ -53,7 +48,6 @@ const musicData = [
     musicPath: "./assets/music/Frederic oddloop.mp3",
   },
   {
-    backgroundImage: "./assets/images/pic12.jpg",
     posterUrl: "./assets/images/pic12.jpg",
     title: "Irokousui",
     album: "|",
