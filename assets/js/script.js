@@ -61,7 +61,7 @@ const musicData = [
     album: "|",
     year: "|",
     artist: "CHRMNG",
-    musicPath: "./assets/music/usual.mp3",
+    musicPath: "./assets/music/Usual.mp3",
   },
    {
     posterUrl: "./assets/images/complicated.jpg",
