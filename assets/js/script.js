@@ -55,6 +55,22 @@ const musicData = [
     artist: "Yoh kamiyama",
     musicPath: "./assets/music/Yoh Kamiyama  Irokousui.mp3",
   },
+   {
+    posterUrl: "./assets/images/usual.jpg",
+    title: "Usual",
+    album: "|",
+    year: "|",
+    artist: "CHRMNG",
+    musicPath: "./assets/music/usual.mp3",
+  },
+   {
+    posterUrl: "./assets/images/complicated.jpg",
+    title: "Complicated",
+    album: "|",
+    year: "|",
+    artist: "Layen",
+    musicPath: "./assets/music/complicated.mp3",
+  },
 ];
 
 
