@@ -71,6 +71,14 @@ const musicData = [
     artist: "Layen",
     musicPath: "./assets/music/complicated.mp3",
   },
+  {
+    posterUrl: "./assets/images/adsz.jpg",
+    title: "HUMBLE. (Skrillex Remix)",
+    album: "|",
+    year: "|",
+    artist: "Kendrick Lamar",
+    musicPath: "./assets/music/Kendrick Lamar  HUMBLE Skrillex Remix.mp3",
+  },
 ];
 
 
