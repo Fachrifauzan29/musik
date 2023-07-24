@@ -40,7 +40,7 @@ const musicData = [
     musicPath: "./assets/music/bluencount.mp3",
   },
   {
-    posterUrl: "./assets/images/rotate.gif",
+    posterUrl: "./assets/images/oddloop.jpg",
     title: "Odd Loop",
     album: "|",
     year: "|",
