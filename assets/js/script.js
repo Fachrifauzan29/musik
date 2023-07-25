@@ -71,6 +71,38 @@ const musicData = [
     artist: "Kendrick Lamar",
     musicPath: "./assets/music/Kendrick Lamar  HUMBLE Skrillex Remix.mp3",
   },
+  {
+    posterUrl: "./assets/images/molly.jpg",
+    title: "Molly (speed up)",
+    album: "|",
+    year: "|",
+    artist: "Playboi Carti",
+    musicPath: "./assets/music/𝙋𝙡𝙖𝙮𝙗𝙤𝙞 𝘾𝙖𝙧𝙩𝙞 - 𝙈𝙤𝙡𝙡𝙮 (𝙨𝙥𝙚𝙙 𝙪𝙥).mp3",
+  },
+  {
+    posterUrl: "./assets/images/loveme.jpg",
+    title: "Love Me (speed up)",
+    album: "|",
+    year: "|",
+    artist: "Lil Wayne",
+    musicPath: "./assets/music/love me - lil wayne  (sped up).mp3",
+  },
+  {
+    posterUrl: "./assets/images/centralcee.jpg",
+    title: "Loading",
+    album: "|",
+    year: "|",
+    artist: "Central Cee",
+    musicPath: "./assets/music/Central Cee  Loading Lyric Video Wild West.mp3",
+  },
+  {
+    posterUrl: "./assets/images/growman.jpg",
+    title: "Grow Man",
+    album: "|",
+    year: "|",
+    artist: "Marshmello, Polo G, Southside",
+    musicPath: "./assets/music/growman.mp3",
+  },
 ];
 
 
