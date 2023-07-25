@@ -73,7 +73,7 @@ const musicData = [
   },
   {
     posterUrl: "./assets/images/molly.jpg",
-    title: "Molly (speed up)",
+    title: "Molly (sped up)",
     album: "|",
     year: "|",
     artist: "Playboi Carti",
@@ -81,7 +81,7 @@ const musicData = [
   },
   {
     posterUrl: "./assets/images/loveme.jpg",
-    title: "Love Me (speed up)",
+    title: "Love Me (sped up)",
     album: "|",
     year: "|",
     artist: "Lil Wayne",
