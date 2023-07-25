@@ -24,14 +24,6 @@ const musicData = [
     musicPath: "./assets/music/Aqua Timez - ALONES.mp3",
   },
   {
-    posterUrl: "./assets/images/consumechase.jpg",
-    title: "Consume",
-    album: "|",
-    year: "|",
-    artist: "Chase Alantic",
-    musicPath: "./assets/music/ConsumeChase.mp3",
-  },
-  {
     posterUrl: "./assets/images/BLUE ENCOUNT - Polaris.jpg",
     title: "Blue Encount",
       album: "|",
@@ -63,13 +55,13 @@ const musicData = [
     artist: "CHRMNG",
     musicPath: "./assets/music/Usual.mp3",
   },
-   {
-    posterUrl: "./assets/images/complicated.jpg",
-    title: "Complicated",
+  {
+    posterUrl: "./assets/images/consumechase.jpg",
+    title: "Consume",
     album: "|",
     year: "|",
-    artist: "Layen",
-    musicPath: "./assets/music/complicated.mp3",
+    artist: "Chase Alantic",
+    musicPath: "./assets/music/ConsumeChase.mp3",
   },
   {
     posterUrl: "./assets/images/adsz.jpg",
