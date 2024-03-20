@@ -61,7 +61,7 @@ const musicData = [
     album: "|",
     year: "|",
     artist: "NF",
-    musicPath: "./assets/music/Kendrick Lamar  HUMBLE Skrillex Remix.mp3",
+    musicPath: "./assets/music/nfedit.mp3",
   },
   {
     posterUrl: "./assets/images/bang.jpg",
