@@ -56,6 +56,22 @@ const musicData = [
     musicPath: "./assets/music/ConsumeChase.mp3",
   },
   {
+    posterUrl: "./assets/images/nfedit.jpg",
+    title: "The Search (Edit)",
+    album: "|",
+    year: "|",
+    artist: "NF",
+    musicPath: "./assets/music/Kendrick Lamar  HUMBLE Skrillex Remix.mp3",
+  },
+  {
+    posterUrl: "./assets/images/bang.jpg",
+    title: "Bling-Bang-Bang-Born",
+    album: "|",
+    year: "|",
+    artist: "Creepy Nuts",
+    musicPath: "./assets/music/bang.mp3",
+  },
+  {
     posterUrl: "./assets/images/adsz.jpg",
     title: "HUMBLE. (Skrillex Remix)",
     album: "|",
