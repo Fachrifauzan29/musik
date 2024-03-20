@@ -56,6 +56,14 @@ const musicData = [
     musicPath: "./assets/music/Usual.mp3",
   },
   {
+    posterUrl: "./assets/images/letin.jpg",
+    title: "hellsong. (let it in)",
+    album: "|",
+    year: "|",
+    artist: "CVLTE",
+    musicPath: "./assets/music/cvltein.mp3",
+  },
+  {
     posterUrl: "./assets/images/consumechase.jpg",
     title: "Consume",
     album: "|",
